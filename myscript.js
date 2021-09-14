@@ -6,7 +6,7 @@ let app = new Vue(
     el: '#root',    
     data: {         
         title :"Titolo",
-        image :"https://www.boolean.careers/images/misc/logo-small.png"
+        image :"https://bebeez.it/wp-content/uploads/2021/07/boolean-e1626086189994.png"
     }
 });
 
