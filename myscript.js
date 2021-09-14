@@ -6,6 +6,7 @@ let app = new Vue(
     el: '#root',    
     data: {         
         title :"Titolo",
+        image :"https://www.boolean.careers/images/misc/logo-small.png"
     }
 });
 
